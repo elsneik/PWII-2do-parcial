@@ -1,3 +1,19 @@
 body{
-background-color: lightskyblue;
+    font-family: sans-serif;
+background-color: rgb(130, 95, 255);
+padding: 1em;
+color: white;
+}
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+h1{
+    background-color: crimson;
+    text-align: center;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    color:white
 }
